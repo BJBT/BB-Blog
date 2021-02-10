@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e3f15f7c-522a-4d39-9383-7540de8329da" name="Default Changelist" comment="" />
+    <list default="true" id="e3f15f7c-522a-4d39-9383-7540de8329da" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/database/seeds/DatabaseSeeder.php" beforeDir="false" afterPath="$PROJECT_DIR$/database/seeds/DatabaseSeeder.php" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -10,6 +13,9 @@
   <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
     <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
     <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="PhpWorkspaceProjectConfiguration">
     <include_path>
@@ -151,6 +157,8 @@
       <workItem from="1600927478438" duration="2008000" />
       <workItem from="1600963858218" duration="7004000" />
       <workItem from="1601051306782" duration="40084000" />
+      <workItem from="1607015624066" duration="272000" />
+      <workItem from="1612977559448" duration="365000" />
     </task>
     <servers />
   </component>
@@ -158,43 +166,17 @@
     <option name="version" value="3" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="-438" y="-709" key="#SQL_Dialects" timestamp="1601250699699">
+    <state x="-255" y="-829" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog" timestamp="1612977792676">
       <screen x="-625" y="-1057" width="2560" height="1057" />
     </state>
-    <state x="-438" y="-709" key="#SQL_Dialects/-625.-1057.2560.1057/0.23.1440.824@-625.-1057.2560.1057" timestamp="1601250699699" />
-    <state x="-244" y="-880" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1601250684970">
+    <state x="-255" y="-829" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog/-625.-1057.2560.1057/0.23.1440.824@-625.-1057.2560.1057" timestamp="1612977792676" />
+    <state width="560" height="445" key="SwitcherDM" timestamp="1612977725046">
       <screen x="-625" y="-1057" width="2560" height="1057" />
     </state>
-    <state x="-244" y="-880" key="#com.intellij.execution.impl.EditConfigurationsDialog/-625.-1057.2560.1057/0.23.1440.824@-625.-1057.2560.1057" timestamp="1601250684970" />
-    <state x="-213" y="-872" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1600964116728">
+    <state width="560" height="445" key="SwitcherDM/-625.-1057.2560.1057/0.23.1440.824@-625.-1057.2560.1057" timestamp="1612977725046" />
+    <state x="-328" y="-826" width="670" height="676" key="search.everywhere.popup" timestamp="1612977605331">
       <screen x="-625" y="-1057" width="2560" height="1057" />
     </state>
-    <state x="-213" y="-872" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/-625.-1057.2560.1057/0.23.1440.824@-625.-1057.2560.1057" timestamp="1600964116728" />
-    <state x="33" y="-834" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog" timestamp="1601252284661">
-      <screen x="-625" y="-1057" width="2560" height="1057" />
-    </state>
-    <state x="33" y="-834" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog/-625.-1057.2560.1057/0.23.1440.824@-625.-1057.2560.1057" timestamp="1601252284661" />
-    <state x="370" y="197" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog/0.23.1440.824@0.23.1440.824" timestamp="1601160336080" />
-    <state x="-64" y="-739" key="#com.jetbrains.php.refactoring.pullPush.pullUp.PhpPullUpDialog#1" timestamp="1601242590548">
-      <screen x="-625" y="-1057" width="2560" height="1057" />
-    </state>
-    <state x="-64" y="-739" key="#com.jetbrains.php.refactoring.pullPush.pullUp.PhpPullUpDialog#1/-625.-1057.2560.1057/0.23.1440.824@-625.-1057.2560.1057" timestamp="1601242590548" />
-    <state x="-57" y="-719" key="#com.jetbrains.php.refactoring.pullPush.pushDown.PhpPushDownDialog#" timestamp="1601242598761">
-      <screen x="-625" y="-1057" width="2560" height="1057" />
-    </state>
-    <state x="-57" y="-719" key="#com.jetbrains.php.refactoring.pullPush.pushDown.PhpPushDownDialog#/-625.-1057.2560.1057/0.23.1440.824@-625.-1057.2560.1057" timestamp="1601242598761" />
-    <state x="192" y="-806" key="NewPhpClassDialog" timestamp="1601248638683">
-      <screen x="-625" y="-1057" width="2560" height="1057" />
-    </state>
-    <state x="192" y="-806" key="NewPhpClassDialog/-625.-1057.2560.1057/0.23.1440.824@-625.-1057.2560.1057" timestamp="1601248638683" />
-    <state x="497" y="252" key="com.jetbrains.php.test.PhpNewTestDialog" timestamp="1600930886404">
-      <screen x="0" y="23" width="1440" height="824" />
-    </state>
-    <state x="497" y="252" key="com.jetbrains.php.test.PhpNewTestDialog/0.23.1440.824@0.23.1440.824" timestamp="1600930886404" />
-    <state x="385" y="171" width="670" height="676" key="search.everywhere.popup" timestamp="1601265834118">
-      <screen x="0" y="23" width="1440" height="824" />
-    </state>
-    <state x="59" y="-867" width="1192" height="868" key="search.everywhere.popup/-625.-1057.2560.1057/0.23.1440.824@-625.-1057.2560.1057" timestamp="1601256228203" />
-    <state x="385" y="171" width="670" height="676" key="search.everywhere.popup/0.23.1440.824@0.23.1440.824" timestamp="1601265834118" />
+    <state x="-328" y="-826" width="670" height="676" key="search.everywhere.popup/-625.-1057.2560.1057/0.23.1440.824@-625.-1057.2560.1057" timestamp="1612977605331" />
   </component>
 </project>
